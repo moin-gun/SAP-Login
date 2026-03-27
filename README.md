@@ -13,7 +13,7 @@ This VBS script allows you to automatically log in to SAP without manually enter
 
 ## 🚀 Setup Instructions
 
-1. **Download the `.vbs` file**  
+1. **Download the `Main.vbs` file**  
    Rename it to a meaningful name. Recommended format: `<SYSTEM_NAME><CLIENT_ID>.vbs`
 
 2. **Open the file in an editor**  
