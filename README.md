@@ -35,7 +35,7 @@ Replace the following values:
 
 1. Open **Windows Terminal / Command Prompt**
 
-2. Navigate to the folder containing your `.vbs` file: `cd <path-to-your-vbs-script>`
+2. Navigate to the folder containing your `.vbs` file: using command `cd <path-to-your-vbs-script>`
 
 3. Run the script: `<your-file-name>.vbs`
 
